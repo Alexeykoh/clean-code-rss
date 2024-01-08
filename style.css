@@ -79,8 +79,9 @@ body {
   display: flex;
 }
 
-.todo__list {
-  margin: 0;
+.todo__list,
+.todo__list__complete {
+  margin: 0px;
   padding: 0px;
 }
 
